@@ -1,5 +1,20 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+npm install lucide-react => ui icon
+npm install lucide-react
+
+npm install zustand
+
+npm install axios
+
+npm install react-hot-toast
+
+bg-yellow-100/50
+
+zinc-900/90 button
+
+bg-yellow-500/90 nav
+
 ## Getting Started
 
 First, run the development server:
